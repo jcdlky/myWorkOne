@@ -1,0 +1,15 @@
+{
+    "name": "chundong/0524",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jcdlky",
+            "email": "2942396864@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "app\\":"app",
+        "core\\":"core"
+    }
+}
